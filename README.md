@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm ADITYA SHAH</h1>
-![GitHub Views](https://komarev.com/ghpvc/?username=<adityashah7867>)
+
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
