@@ -5,9 +5,9 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
-- 🔭 I’m currently working on [NOTES BETA](https://notesprojectbeta.pythonanywhere.com/)
+- 🔭 I’m currently working on Web & Android Development
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **MERN STACK** & React Native
 
 - 👨‍💻 All of my projects are available at [https://adityanshah.netlify.app/](https://adityanshah.netlify.app/)
 
