@@ -26,3 +26,6 @@
 ![adityashah7867's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah7867&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adityashah7867?cardType=level&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=adityashah7867)](https://git.io/streak-stats)
