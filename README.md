@@ -25,7 +25,11 @@
 
 ![adityashah7867's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah7867&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/adityashah7867?cardType=level&theme=vue-dark&preferLogin=false)](https://git.io/awesome-stats-card)
+ <div style="flex: 1; padding: 10px;">
+    <p align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaShah7867" alt="AdityaShah7867" />
+    </p>
+  </div>
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=adityashah7867)](https://git.io/streak-stats)
