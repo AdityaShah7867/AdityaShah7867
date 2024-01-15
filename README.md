@@ -26,8 +26,8 @@
 ![adityashah7867's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah7867&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
  <div style="flex: 1; padding: 10px;">
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaShah7867" alt="AdityaShah7867" />
+    <p align="">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&locale=en" alt="Sahilll15" />
     </p>
   </div>
 
