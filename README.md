@@ -27,7 +27,7 @@
 
  <div style="flex: 1; padding: 10px;">
     <p align="">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sahilll15&show_icons=true&locale=en" alt="Sahilll15" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AdityaShah7867&show_icons=true&locale=en" alt="AdityaShah7867" />
     </p>
   </div>
 
