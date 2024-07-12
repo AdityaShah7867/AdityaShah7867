@@ -25,11 +25,7 @@
 
 ![adityashah7867's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityashah7867&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
- <div style="flex: 1; padding: 10px;">
-    <p align="">
-      <img src="https://github-readme-stats.vercel.app/api?username=AdityaShah7867&show_icons=true&locale=en" alt="AdityaShah7867" />
-    </p>
-  </div>
+
 
 
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdityaShah7867&theme=dark&hide_border=true)](https://git.io/streak-stats)
