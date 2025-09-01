@@ -108,9 +108,8 @@ graph LR
 
 <div align="center">
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=adityashah7867&repo=portfolio&theme=tokyonight)](https://adityanshah.netlify.app/)
 
-*Explore more projects on my [Portfolio Website](https://adityanshah.netlify.app/) 🚀*
+*Explore more projects on my [Portfolio Website](https://theadityashah.in/) 🚀*
 
 </div>
 
